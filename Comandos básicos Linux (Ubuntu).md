@@ -1,13 +1,21 @@
 # <span style="color:blue">Comandos básicos Linux (usando distribución Ubuntu) julio 2022</span>
-Comentario: antes que memorizar comandos, conviene pensar las siglas o alias a la cual hacen referencia. Por ejemplo: 'pwd' no es mas que Print Working Directory, 'rm' es una abreviación de Remove, como 'cp' es de Copy, 'ls' de List y 'cd' de Change Directory.
+
+**Comentario: antes que memorizar comandos, conviene pensar las siglas o alias a la cual hacen referencia. Por ejemplo: 'pwd' no es mas que Print Working Directory, 'rm' es una abreviación de Remove, como 'cp' es de Copy, 'ls' de List y 'cd' de Change Directory.
+
+
+```
+CARPETAS DEL SISTEMA
+```
 
 ![Linux](./rootUbuntu.PNG)
-![Linux](./Ubuntu.PNG)
 
 ```
 El signo de dólar ($) significa que es un USUARIO "NORMAL", muchas veces con restricciones en cuanto a permisos.
 Numeral o hash (#) significa que usted estas ejecutando los comandos como ADMINISTRADOR (root)
 ```
+![Linux](./Ubuntu.PNG)
+
+
 
 Ejecución comandos con permisos de admin
 
