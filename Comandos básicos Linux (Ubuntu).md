@@ -9,7 +9,8 @@ CARPETAS DEL SISTEMA
 
 ![Linux](./rootUbuntu.PNG)
 
-```Al final del prompt, el signo pesos ($) significa que es un USUARIO "NORMAL", muchas veces con restricciones en cuanto a permisos.
+```
+Al final del prompt, el signo pesos ($) significa que es un USUARIO "NORMAL", muchas veces con restricciones en cuanto a permisos.
 Numeral o hash (#) significa que estas ejecutando los comandos como ADMINISTRADOR (root)
 ```
 ![Linux](./Ubuntu.PNG)
