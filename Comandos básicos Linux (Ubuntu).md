@@ -1,4 +1,4 @@
-# <span style="color:blue">Comandos básicos Linux (usando distribución Ubuntu) julio 2022</span>
+# <font color='red'>Comandos básicos Linux (usando distribución Ubuntu) julio 2022</font>
 
 **Comentario: antes que memorizar comandos, conviene pensar las siglas o alias a la cual hacen referencia. Por ejemplo: 'pwd' no es mas que Print Working Directory, 'rm' es una abreviación de Remove, como 'cp' es de Copy, 'ls' de List y 'cd' de Change Directory.**
 
